@@ -536,7 +536,7 @@ Options('ShowName', 'Show Names', true);
 Options('ShowDistance', 'Show Distance', true);
 Options('ShowHealth', 'Show Health', true);
 Options('ShowBoxes', 'Show Boxes', true);
-Options('ShowTracers', 'Show Tracers', true);
+Options('ShowTracers', 'Show Tracers', false);
 Options('ShowDot', 'Show Head Dot', false);
 Options('VisCheck', 'Visibility Check', false);
 Options('Crosshair', 'Crosshair', false);
