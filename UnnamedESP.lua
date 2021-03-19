@@ -535,7 +535,7 @@ Options('ShowTeamColor', 'Show Team Color', false);
 Options('ShowName', 'Show Names', true);
 Options('ShowDistance', 'Show Distance', true);
 Options('ShowHealth', 'Show Health', true);
-Options('ShowBoxes', 'Show Boxes', true);
+Options('ShowBoxes', 'Show Boxes', false);
 Options('ShowTracers', 'Show Tracers', false);
 Options('ShowDot', 'Show Head Dot', false);
 Options('VisCheck', 'Visibility Check', false);
